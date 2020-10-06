@@ -11,5 +11,15 @@ h1 {
       padding: 100px 25px;
       text-align: center;     
   }
+  table {
+    border-spacing: 15px;
+  }
+  th, td {
+    padding: 5px;
+    text-align: center;
+  }
+  th {
+    text-align: center;
+  }
 
 
