@@ -1,25 +1,50 @@
 body {
-      font: 400 15px Tahoma, sans-serif; /*Familia sans-serif*/
-      line-height: 1.8;
-      color: #818181;
-      background-color: #f6f6f6
+      font: 400 15px Palatino, URW Palladio L, serif; 
+      line-height: 2.5;
+      color: 	#000000;
+     background-color: #EEE4F1;
+     margin-left: 40px;
+     margin-right: 40px;
+      
   }
 h1 {
-      background-color:#FF5733; 
+      background-color:#2320e4; 
       color: #fff;
       text-transform: uppercase;
-      padding: 100px 25px;
+      padding: 100px 28px;
       text-align: center;     
   }
+  h2 {
+    background-color:#9795e5; 
+    color: #fff;
+    padding: 100px 26px;
+    text-align: center;     
+}
+h3 {
+  font-size: 24px;
+  text-align: center; 
+}
   table {
+    font-size: 18px;
     border-spacing: 15px;
+    text-align: center;
+    vertical-align: center;
+    margin: auto;
   }
   th, td {
+    font-size: 18px;
     padding: 5px;
     text-align: center;
   }
   th {
     text-align: center;
   }
-
+ul{
+  margin-left: 50px;
+  font-size: 18px;
+}
+p{
+  font-size: 18px;
+  line-height: 2.5;
+}
 
