@@ -28,7 +28,7 @@ body {
 .rightcolumn {
   float: left;
   width: 75%;  
-  padding-left: 5%;
+  padding-left: 20px;
 }
 
 /* Clear floats after the columns */
@@ -38,7 +38,7 @@ body {
   clear: both;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 400px) {
   .leftcolumn, .rightcolumn {   
     width: 100%;
     padding: 0;
@@ -47,7 +47,7 @@ body {
 
 nav ul {
     list-style-type: none;
-    margin: auto;
+    margin: 0;
     padding: 0;
     background-color: #EEE4F1;
     height: 100%;
@@ -76,13 +76,13 @@ nav ul {
     background-color: #EEE4F1;
     padding: 10px;
     text-align: center;
-    margin-top: auto;
+    margin-top: 20px;
   }
   
   
  article{
   font-size: 20px;
-  margin-top: auto;
+  margin-top: 20px;
  }
   article h1 {
     color:#2320e4; 
@@ -96,7 +96,7 @@ article h2 {
 
 .pelicula{
   padding: 20px;
-  margin-top: auto;
+  margin-top: 20px;
 }
 
 
