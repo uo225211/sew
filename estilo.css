@@ -68,13 +68,13 @@ nav ul {
 
   
   nav li a.active {
-    background-color:#8280cc; 
-    color: #fff;
+    background-color:#9795e5; 
+    color: black;
   }
   
   nav li a:hover:not(.active) {
     background-color: #827ee7cb;
-    color: white;
+    color: black;
   }
   
 
