@@ -11,21 +11,34 @@
     <META NAME=author CONTENT="Beatriz Arbizu Ramírez"/>
     <meta name=keywords content="matrix,pelicula,permio, nominación"/>
     
-    <link rel="stylesheet" type="text/css" href="estilo.css" />
+    <link rel="stylesheet" type="text/css" href="estiloTabla.css" />
 </head>
 <body>
-  <header>
-    <h1>The Matrix</h1>
-</header>
-    <article>
-    <h3>Premios y nominaciones</h3>
+  <header class="Titulo">
+    <p>The Matrix</p>
+  </header>
+  <main class="row">
+    <aside class="leftcolumn">
+      <nav>
+        <ul>
+          <li><a  href="index.html">Indice</a></li>
+          <li><a  href="paginaportagonistas.html">Actores que protagonizan la pelicula</a></li>
+          <li><a href="paginaBS.html">Banda sonora de la pelicula</a></li>
+          <li><a class="active" href="paginaPremios.html">Premios y nominaciones</a></li>
+          <li><a href="paginaSaga.html">Saga Matrix</a></li>
+        </ul>
+      </nav>
+     </aside>
+    <article class="rightcolumn">
+        <h1>Premios y nominaciones</h1>
     <p> La pelicula "The Matrix" ha sido nominada a muchos premios nada más salir a continuación se muestran algunos de estos son:
     </p>
-    <table class="egt">
-        <caption>Premios y nominaciones de la pelicula"The Matrix""</caption>
+    <section class="peliculas">
+      <h2>Oscars</h2>
+    <table >
+        <caption>Premios y nominaciones de la pelicula"The Matrix"Para los Oscar"</caption>
         <thead>
         <tr>
-          <th >Premio</th>
             <th >Nominación</th>
             <th >Para</th>
             <th>¿Gano?</th>
@@ -33,7 +46,6 @@
     </thead>
     <tbody>
         <tr>
-          <th rowspan="4">Oscar:</th>
           <td>(1999) Mejor Montaje</td>
           <td>Zach Staenberg</td>
           <td>Si</td>
@@ -53,8 +65,22 @@
             <td>John Gaeta, Janek Sirrs, Steve Courtley y Jon Thum</td>
             <td>Si</td>
         </tr>
+      </tbody>
+    </table>
+      </section>
+      <section class="peliculas">
+        <h2>Bafta</h2>
+      <table >
+        <caption>Premios y nominaciones de la pelicula"The Matrix"Para los Bafta"</caption>
+        <thead>
         <tr>
-          <th rowspan="5">Bafta:</th>
+            <th >Nominación</th>
+            <th >Para</th>
+            <th>¿Gano?</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
           <td>(1999) Mejor sonido</td>
           <td>David Lee, John T. Reitz, Gregg Rudloff, David E. Campbell, Dane A. Davis</td>
           <td>Si</td>
@@ -79,8 +105,22 @@
             <td>Owen Paterson</td>
             <td>No</td>
         </tr>
+      </tbody>
+    </table>
+      </section>
+      <section class="peliculas">
+        <h2>Saturn</h2>
+      <table >
+        <caption>Premios y nominaciones de la pelicula"The Matrix"Para los Saturn"</caption>
+        <thead>
         <tr>
-          <th rowspan="8">Saturn:</th>
+            <th >Nominación</th>
+            <th >Para</th>
+            <th>¿Gano?</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
           <td>(1999) Mejor director y Mejor película de ciencia ficción</td>
           <td>Andy Wachowski y Larry Wachowski</td>
           <td>Si</td>
@@ -124,26 +164,14 @@
       </table>
       </section>
     </article> 
-    <aside>
-        <nav>
-            <h2>Más Infromación sobre "The Matrix</h2>
-            <p>Para obtener más información sobre la pelicula:</p>
-            <ul>
-             <li><a href="index.html">Indice</a></li>
-             <li><a href="paginaportagonistas.html">Actores protagonistas</a></li>
-             <li><a href="paginaBS.html">Banda sonora de la pelicula</a></li>
-             <li><a href="paginaSaga.html">Saga Matrix</a></li>
-            </ul>
-           </nav>
-       </aside>
-    <br>
-    <footer>
+  </main>
+  <footer>
     <a href="https://validator.w3.org/check?uri=referer">
-        <img src="images/HTML5.png" alt=" HTML5 Válido!" /></a>
+        <img src="multimedia/HTML5.png" alt=" HTML5 Válido!" /></a>
 
     <a href=" http://jigsaw.w3.org/css-validator/check/referer ">
-         <img src="images/CSS3.png"
+         <img src="multimedia/CSS3.png"
          alt="CSS Válido!" height="63" width="64"/></a>
-    </footer> 
+    </footer>
 </body>
 </html>

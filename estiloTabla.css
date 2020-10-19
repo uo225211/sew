@@ -1,0 +1,155 @@
+
+
+
+
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  font: 400 15px "Palatino", "URW Palladio L", serif; 
+  line-height: 2.5;
+  background-color: #EEE4F1;
+  padding: 10px;
+  
+}
+  header{
+    background-color:#2320e4; 
+      color: #fff;
+      text-transform: uppercase;
+      font-size: 26px;
+      padding: 100px 40px;
+      text-align: center;    
+  }
+ 
+  .leftcolumn {   
+    float: left;
+    width: 25%;
+  }
+
+/* Right column */
+.rightcolumn {
+  float: left;
+  width: 75%;  
+  padding-left: 20px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@media screen and (max-width: 800px) {
+  .leftcolumn, .rightcolumn {   
+    width: 100%;
+    padding: 0;
+  }
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #EEE4F1;
+    height: 100%;
+  }
+  
+  nav li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+  }  
+
+  
+  nav li a.active {
+    background-color:#9795e5; 
+    color: #fff;
+  }
+  
+  nav li a:hover:not(.active) {
+    background-color: #827ee7cb;
+    color: white;
+  }
+  
+
+  footer {
+    background-color: #EEE4F1;
+    padding: 10px;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  
+ article{
+  font-size: 20px;
+  margin-top: 20px;
+ }
+  article h1 {
+    color:#2320e4; 
+    font-size: 50px;
+    text-align: center;     
+}
+article h2 {
+  font-size: 24px;
+  text-align: center; 
+}
+
+.pelicula{
+  padding: 20px;
+  margin-top: 20px;
+}
+
+  table {
+    font-size: 18px;
+    border-spacing: 15px;
+    text-align: center;
+    vertical-align: center;
+    margin: auto;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  th,td {
+    border: 1px solid #ddd;
+    font-size: 18px;
+    padding: 5px;
+    text-align: center;
+  }
+  th{
+  background-color: #9864c9cb;
+  color: white;
+  }
+
+  #BandaSonora {
+    
+    border-collapse: collapse;
+    font-size: 18px;
+    border-spacing: 15px;
+    text-align: center;
+    vertical-align: center;
+    margin: auto;
+    width: 100%;
+  }
+  #BandaSonora th, #BandaSonora td {
+    font-size: 18px;
+    padding: 5px;
+    text-align: center;
+  }
+  #BandaSonora th{
+  background-color: #9864c9cb;
+  color: white;
+  }
+  #BandaSonora th, #BandaSonoratd {
+    font-size: 18px;
+    padding: 5px;
+    text-align: center;
+  }
+  
+
+p{
+  font-size: 18px;
+  line-height: 2.5;
+}
+
