@@ -104,7 +104,10 @@ article h2 {
   padding: 20px;
   margin-top: 20px;
 }
-
+video {
+  width: 100%;
+  height: auto;
+}
 
   .matriximg{
     
