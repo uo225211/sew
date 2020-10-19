@@ -38,8 +38,9 @@ body {
   clear: both;
 }
 
-@media screen and (max-width: 400px) {
-  .leftcolumn, .rightcolumn {   
+@media screen and (max-width: 800px) {
+  .leftcolumn, .rightcolumn {  
+    float: none; 
     width: 100%;
     padding: 0;
   }
