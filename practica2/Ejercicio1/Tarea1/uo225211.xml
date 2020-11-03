@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rutas>
+    
+<ruta nombre="Camino de Santiago desde León"> 
+    <tipo>"Paisajísta"</tipo>
+    <dificultad>Dificil</dificultad>
+    <fechaInicio>10/10/2020</fechaInicio>
+    <horaInicio>09:00</horaInicio>
+    <tiempoDuracion>2meses</tiempoDuracion>
+    <agencia> Caminos S.A.</agencia>
+    <descripcion>Esta ruta consiste en ir desde León hasta Santiago de Compostela siguiendo el camino de Santiago empleando bicicletas.
+    Como es muy largo de hacer de una sola vez lo que Caminos S.A. ofrece es ir haciéndolo en etapas los fines de semana, seremos 
+    nosotros los que os llevaremos hasta donde se recogió a los participantes en el fin de semana anterior. </descripcion>
+    <personasAdecuadas>Personas en buena forma fisica</personasAdecuadas>
+    <lugarInicio>León </lugarInicio>
+    <direccionInicio>Plaza Regla, s/n, 24003 León </direccionInicio>
+    <coordenadasInicio lat="42.5919729" lon ="-5.5732472" alt="820"/>
+    <referencias>
+        <referencia enlace="https://www.catedraldeleon.org/">
+        web oficial de la catedral de León</referencia>
+        <referencia enlace="https://catedraldeoviedo.com/">
+        web oficial de la catedral de Oviedo</referencia>
+        <referencia enlace="http://catedraldesantiago.es/">
+        web oficial de la catedral de Santiago de Compostela</referencia>
+        <referencia enlace="https://www.gronze.com/camino-salvador">
+        web de las estapas del camino</referencia>
+    </referencias>
+    <recomendacion>7</recomendacion>
+    <sitios>
+        <hito nombre="La robla">
+            <descripcionHilo>Pequeña ciudad vinculada a una gigantesca y altamente contaminante central térmica de carbón, junto a la cual pasa
+            el camino.</descripcionHilo>
+            <coordenadas lat="42.801389" lon ="-5.628889" alt="958"/> 
+            <distancia unidades="km">27.3</distancia>
+            <tiempoHito>6:45</tiempoHito>
+            <fotografias>
+                <fotografia>imagenes/larobla1.JPG</fotografia>        
+            </fotografias>
+            <videos>
+                <video>https://www.youtube.com/embed/sJval4BxCyE</video>
+            </videos>
+        </hito>
+        <hito nombre="Buiza">
+            <descripcionHilo>Bonito pueblo a pie de la Cordillera Cantábrica, con un albergue de peregrinos pero sin apenas servicios.</descripcionHilo>
+            <coordenadas lat="42.893611" lon ="-5.686944" alt="1130"/> 
+            <distancia unidades="km">14.9</distancia>
+            <tiempoHito>3:45</tiempoHito>
+            <fotografias>
+                <fotografia>imagenes/Biuza1.jpg</fotografia>   
+                <fotografia>imagenes/Biuza2.jpg</fotografia>      
+            </fotografias>
+        </hito>
+        <hito nombre="Pajares">
+            <descripcionHilo> 	Forma parte de la gran ruta que es la Vía de la Plata, calzada de origen romano que unía Astorga con Mérida, según el itinerario Antonino.
+                Actualmente se ha desvirtuado el itinerario de la Ruta de la Plata, puesto que comienza en Sevilla (en vez de Mérida) y acaba en Gijón (en vez de Astorga).
+                Durante siglos fue usada como camino de trashumancia y de peregrinos hacia Santiago, enlazando con el Camino Francés en Astorga.</descripcionHilo>
+            <coordenadas lat="43.0187" lon ="-5.77383" alt="970"/> 
+            <distancia unidades="km">22.6</distancia>
+            <tiempoHito>7:45</tiempoHito>
+            <fotografias>
+                <fotografia>imagenes/pajares1.jpg</fotografia>   
+                <fotografia>imagenes/pajares2.jpg</fotografia>      
+            </fotografias>
+            <videos>
+                <video>https://youtu.be/BrSRtDkzFCc</video>
+            </videos>
+        </hito>
+        <hito nombre="Pola de Lena">
+            <descripcionHilo> La villa fue fundada en 1266 por Alfonso X de Castilla, como lugar de paso entre Oviedo y León, y en la actualidad 
+                posee, gracias a sus buenas comunicaciones con otros núcleos de población asturianos, un claro carácter de ciudad 
+                residencial.</descripcionHilo>
+            <coordenadas lat="43.159028" lon ="-5.829583" alt="322"/> 
+            <distancia unidades="km">23.9</distancia>
+            <tiempoHito>6:30</tiempoHito>
+            <fotografias>
+                <fotografia>imagenes/pola1.jpg</fotografia>   
+                <fotografia>imagenes/pola2.jpg</fotografia>     
+                <fotografia>imagenes/pola3.jpg</fotografia>    
+            </fotografias>
+            <videos>
+                <video>https://youtu.be/B9TGm_YniEg</video>
+                <video>https://youtu.be/EXyd4Od-db0</video>
+            </videos>
+        </hito>
+        <hito nombre="Oviedo">
+            <descripcionHilo>Es el centro geográfico, universitario, religioso y administrativo del Principado, sede de la Junta General del 
+            Principado de Asturias, de las instituciones oficiales del Principado de Asturias, de la Universidad de Oviedo, del Museo de 
+            Bellas Artes de Asturias, de los Premios Princesa de Asturias así como de la archidiócesis de Oviedo. Es reconocida como una 
+            de las ciudades con mayor calidad de vida de Europa según la Comisión Europea. </descripcionHilo>
+            <coordenadas lat="43.3625" lon ="-5.850278" alt="231"/> 
+            <distancia unidades="km">31.4</distancia>
+            <tiempoHito>7:45</tiempoHito>
+            <fotografias>
+                <fotografia>imagenes/oviedo1.jpg</fotografia>   
+                <fotografia>imagenes/oviedo2.jpg</fotografia>     
+                <fotografia>imagenes/oviedo3.jpg</fotografia>   
+                <fotografia>imagenes/oviedo4.jpg</fotografia>     
+                <fotografia>imagenes/oviedo5.jpg</fotografia>     
+            </fotografias>
+            <videos>
+                <video>https://youtu.be/e07KYwbQFwM</video>
+                <video>https://youtu.be/8bdQzkCJgjs</video>
+                <video>https://youtu.be/6bcM2WkJ85I</video>        
+            </videos>
+        </hito>
+        <hito nombre="Grado">
+            <descripcionHilo>Concejo de la comunidad autónoma del Principado de Asturias, España, una parroquia de dicho concejo y una villa 
+            de dicha parroquia, capital del concejo. El topónimo oficial de la parroquia y la villa es bilingüe, en asturiano y castellano. </descripcionHilo>
+            <coordenadas lat="43.40821" lon ="-6.256857" alt="65"/> 
+            <distancia unidades="km">25.2</distancia>
+            <tiempoHito>6:15</tiempoHito>
+            <fotografias>
+                <fotografia>imagenes/grado1.jpg</fotografia>     
+            </fotografias>
+        </hito>
+        <hito nombre="Salas">
+            <descripcionHilo>Concejo del Principado de Asturias, situado en el centro-occidente de la región; tal y como rezan las guías 
+            turísticas, Salas es "la Puerta del Occidente" de Asturias. Limita al norte con Valdés, Cudillero y Pravia, al sur con 
+            Belmonte de Miranda, al este con Pravia, Candamo y Grado y al oeste con Tineo y de nuevo con Valdés. </descripcionHilo>
+            <coordenadas lat="43.389426" lon ="-6.068696" alt="240"/> 
+            <distancia unidades="km">22.1</distancia>
+            <tiempoHito>5:30</tiempoHito>
+            <fotografias>
+                <fotografia>imagenes/salas.jpg</fotografia>     
+            </fotografias>
+        </hito>
+        <hito nombre="Tineo">
+            <descripcionHilo>Concejo de la comunidad autónoma del Principado de Asturias, en el norte de España; también es una 
+            parroquia y una villa de dicho concejo. </descripcionHilo>
+            <coordenadas lat="43.309507" lon ="-6.492153" alt="652"/> 
+            <distancia unidades="km">19.8</distancia>
+            <tiempoHito>5:00</tiempoHito>
+            <fotografias>
+                <fotografia>imagenes/tineo.jpg</fotografia>     
+            </fotografias>
+        </hito>
+            <hito nombre="Borres">
+            <descripcionHilo>​Es una de las 44 parroquias del concejo de Tineo, Asturias, España, se sitúa en el extremo oeste del 
+            concejo de Tineo en la carretera AS-219, linda con pueblos como Santiago Cerredo, El Espín de Sangoñedo, Fresno, Pereda 
+            de Sangoñedo, Orrea, Sangoñedo. Por él discurre el camino primitivo de Santiago contando con un albergue de peregrinos. 
+            </descripcionHilo>
+            <coordenadas lat="43.3358" lon ="-6.55722" alt="630"/> 
+            <distancia unidades="km">15.9</distancia>
+            <tiempoHito>4:00</tiempoHito>
+            <fotografias>
+                <fotografia>imagenes/borres.jpg</fotografia>     
+            </fotografias>
+        </hito>
+        <hito nombre="Berducedo">
+            <descripcionHilo>​Es una de las 44 parroquias del concejo de Tineo, Asturias, España, se sitúa en el extremo oeste del 
+            concejo de Tineo en la carretera AS-219, linda con pueblos como Santiago Cerredo, El Espín de Sangoñedo, Fresno, Pereda 
+            de Sangoñedo, Orrea, Sangoñedo. Por él discurre el camino primitivo de Santiago contando con un albergue de peregrinos. 
+            </descripcionHilo>
+            <coordenadas lat="43.234419" lon ="-6.768611" alt="900"/> 
+            <distancia unidades="km">24.1</distancia>
+            <tiempoHito>6:30</tiempoHito>
+            <fotografias>
+                <fotografia>imagenes/Berducedo.jpg</fotografia>     
+            </fotografias>
+        </hito>
+        <hito nombre="Berducedo">
+            <descripcionHilo>​Berducedo es una parroquia del concejo asturiano de Allande, en España, y la localidad capital de dicha parroquia.
+            La parroquia limita al norte con las de Santa Coloma y San Emiliano, al oeste de nuevo con San Emiliano y La Mesa (Grandas de Salime), 
+            al este con Santa María de Lago y al sur con San Martín del Valledor (Allande). 
+            </descripcionHilo>
+            <coordenadas lat="43.234419" lon ="-6.768611" alt="900"/> 
+            <distancia unidades="km">24.1</distancia>
+            <tiempoHito>6:30</tiempoHito>
+            <fotografias>
+                <fotografia>imagenes/Berducedo.jpg</fotografia>     
+            </fotografias>
+        </hito>
+        <hito nombre="Grandas de Salime">
+            <descripcionHilo>​El municipio es conocido también como una etapa en el Camino de Santiago. Como parte del camino de Santiago constituye el 
+            último tramo asturiano de la Ruta Jacobea Primitiva antes de adentrarse en Galicia a través del Puerto del Acebo.  
+            </descripcionHilo>
+            <coordenadas lat="43.217659" lon ="-6.875723" alt="562"/> 
+            <distancia unidades="km">20.4</distancia>
+            <tiempoHito>5:00</tiempoHito>
+            <fotografias>
+                <fotografia>imagenes/Grandas.jpg</fotografia>     
+            </fotografias>
+        </hito>
+        <hito nombre="A Fonsagrada">
+            <descripcionHilo>​Municipio situado al noroeste de España, en la provincia de Lugo, en la comunidad autónoma de Galicia. 
+            Se encuentra a unos 60 kilómetros al este de Lugo.  
+            </descripcionHilo>
+            <coordenadas lat="43.133333" lon ="-7.066667" alt="952"/> 
+            <distancia unidades="km">25.2</distancia>
+            <tiempoHito>6:45</tiempoHito>
+            <fotografias>
+                <fotografia>imagenes/Fonsagrada.jpg</fotografia>     
+            </fotografias>
+        </hito>
+        <hito nombre="O Cádavo">
+            <descripcionHilo>Es la capital de un concello - Baleira- que sufre los mismos problemas que A Fonsagrada y otros municipios 
+            del rural montañoso galaico y asturiano: la despoblación y el envejecimiento demográfico.  
+            </descripcionHilo>
+            <coordenadas lat="43.001667" lon ="-7.239167" alt="1049"/> 
+            <distancia unidades="km">24.3</distancia>
+            <tiempoHito>6:00</tiempoHito>
+            <fotografias>
+                <fotografia>imagenes/Cádavo.jpg</fotografia>     
+            </fotografias>
+        </hito>
+        <hito nombre="Lugo">
+            <descripcionHilo>Es una ciudad y municipio de España, capital de la comarca y provincia homónimas. Se ubica en el 
+            noroeste del país, en la comunidad autónoma de Galicia. </descripcionHilo>
+            <coordenadas lat="43.011667" lon ="-7.557222" alt="462"/> 
+            <distancia unidades="km">29.5</distancia>
+            <tiempoHito>7:15</tiempoHito>
+            <fotografias>
+                <fotografia>imagenes/Lugo.jpg</fotografia>     
+            </fotografias>
+        </hito>
+        <hito nombre="Ferreira">
+            <descripcionHilo>Es una localidad del concejo de Santa Eulalia de Oscos y perteneciente a la parroquia de Santa Eulalia de Oscos. </descripcionHilo>
+            <coordenadas lat="43.265442" lon ="-6.961722" alt="	460"/> 
+            <distancia unidades="km">26.5</distancia>
+            <tiempoHito>6:30</tiempoHito>
+            <fotografias>
+                <fotografia>imagenes/ferreira.jpg</fotografia>     
+            </fotografias>
+        </hito>
+        <hito nombre="Melide">
+            <descripcionHilo>Es un municipio español de la provincia de La Coruña (Galicia). Pertenece a la Comarca de Tierra de Mellid.</descripcionHilo>
+            <coordenadas lat="42.914574" lon ="-8.013614" alt="454"/> 
+            <distancia unidades="km">20.0</distancia>
+            <tiempoHito>5:00</tiempoHito>
+            <fotografias>
+                <fotografia>imagenes/Melide.jpg</fotografia>     
+            </fotografias>
+        </hito>
+        <hito nombre="Arzúa">
+            <descripcionHilo>Es un municipio español situado en la parte suroriental de la provincia de La Coruña, en la comunidad autónoma 
+            de Galicia. Se autodenomina "tierra del queso" en referencia al queso elaborado con leche de vaca de la denominación de origen 
+            Arzúa-Ulloa.</descripcionHilo>
+            <coordenadas lat="42.93" lon ="-8.16" alt="385"/> 
+            <distancia unidades="km">14.1</distancia>
+            <tiempoHito>3:45</tiempoHito>
+            <fotografias>
+                <fotografia>imagenes/Arzúa.jpg</fotografia>     
+            </fotografias>
+        </hito>
+        <hito nombre="O Pedrouzo">
+            <descripcionHilo>Es una pequeña localidad de la provincia de La Coruña (algo más de 500 habitantes), ya a tan solo 20 kms de Santiago de 
+            Compostela en el Camino de Santiago, enclavado dentro de la parroquia de Arca y capital del ayuntamiento de O Pino.</descripcionHilo>
+            <coordenadas lat="42.9254" lon ="-8.3675" alt="280"/> 
+            <distancia unidades="km">19.3</distancia>
+            <tiempoHito>4:30</tiempoHito>
+            <fotografias>
+                <fotografia>imagenes/Pedrouzo.jpg</fotografia>     
+            </fotografias>
+        </hito>
+        <hito nombre="Santiago de Compostela">
+            <descripcionHilo>Es un municipio y ciudad de España, capital de la comunidad autónoma de Galicia. Pertenece a la provincia de 
+            La Coruña y en ella tienen su sede el gobierno autonómico gallego (Junta de Galicia) y el Parlamento. </descripcionHilo>
+            <coordenadas lat="42.883333" lon ="-8.533333" alt="260"/> 
+            <distancia unidades="km">19.4</distancia>
+            <tiempoHito>4:30</tiempoHito>
+            <fotografias>
+                <fotografia>imagenes/Santiago.jpg</fotografia>     
+            </fotografias>
+        </hito>
+    </sitios>
+</ruta>
+
+<ruta nombre="Ruta del Naranco"> 
+    <tipo>"Paisajísta, Turistica"</tipo>
+    <dificultad>Moderada</dificultad>
+    <fechaInicio>07/10/2020</fechaInicio>
+    <horaInicio>09:00</horaInicio>
+    <tiempoDuracion>1día</tiempoDuracion>
+    <agencia> Sin agencia</agencia>
+    <descripcion>Ruta para visitar los tres gandes monimentos que se encuentran en el monte Naranco de Oviedo</descripcion>
+    <personasAdecuadas>Todas la persona menos niños</personasAdecuadas>
+    <lugarInicio>Oviedo </lugarInicio>
+    <direccionInicio>Av. Fundación Príncipe de Asturias, 33012 Oviedo, Asturias </direccionInicio>
+    <coordenadasInicio lat="43.365278" lon ="-5.857222" alt="225"/>
+    <referencias>
+        <referencia enlace="https://es.wikipedia.org/wiki/San_Miguel_de_Lillo">
+        iglesia de San Miguel de Lillo</referencia>
+        <referencia enlace="https://es.wikipedia.org/wiki/Monte_Naranco">
+        Monte Naranco</referencia>
+        <referencia enlace="https://es.wikipedia.org/wiki/Santa_Mar%C3%ADa_del_Naranco">
+        Iglesia de Santa María del Naranco</referencia>
+    </referencias>
+    <recomendacion>10</recomendacion>
+    <sitios>
+        <hito nombre="Santa María del Naranco">
+            <descripcionHilo>Es un antiguo palacio situado a cuatro kilómetros de Oviedo (Asturias, España),
+            sobre la ladera sur del monte Naranco. Originalmente no se proyectó como iglesia, sino que fue el Aula Regia
+            del conjunto palacial que el rey Ramiro I mandó construir en las afueras de la capital del reino de Asturias,
+            y que se terminó en el año 842. Su estilo artístico es el denominado arte asturiano o "ramirense", dentro del
+                prerrománico. </descripcionHilo>
+            <coordenadas lat="43.379028" lon ="-5.865972" alt="345"/> 
+            <distancia unidades="km">2.8</distancia>
+            <tiempoHito>0:19</tiempoHito>
+            <fotografias>
+                <fotografia>imagenes/naranco.JPG</fotografia>        
+            </fotografias>
+        </hito>
+        <hito nombre="San Miguel de Lillo">
+            <descripcionHilo>La iglesia prerrománica de San Miguel de Lillo (en asturiano, Samiguel de Lliño), 
+            dedicada a San Miguel Arcángel, construida por el rey Ramiro I en el monte Naranco, en los alrededores 
+            de Oviedo (Asturias, España). Se encuentra a escasos metros de Santa María del Naranco. Posiblemente es 
+            la que, según la crónica Albeldense, este monarca mandó a construir junto a sus palacios, con función de 
+            iglesia palatina. En principio pudo estar dedicada a Santa María y San Miguel. </descripcionHilo>
+            <coordenadas lat="43.380278" lon ="-5.868333" alt="382"/> 
+            <distancia unidades="km">3.0</distancia>
+            <tiempoHito>0:21</tiempoHito>
+            <fotografias>
+                <fotografia>imagenes/lillo.jpg</fotografia>   
+            </fotografias>
+        </hito>
+        <hito nombre="Monte Naranco">
+            <descripcionHilo>El monte Naranco es una sierra en cuya falda meridional se encuentra la ciudad de Oviedo (Asturias, España), 
+            incluso existe un barrio que toma su nombre, Ciudad Naranco. Forma un arco de unos 6 kilómetros, cuyo extremo noroeste apunta 
+            a la parroquia de Villaperi y el extremo oeste a Lloriana. Al norte y al este de la sierra transcurre el río Nora. Su relieve 
+            es poco destacado, con cumbres redondeadas. La máxima altura se encuentra en el Pico el Paisano con 634 m, con buenas vistas 
+            de la parte central de Asturias, incluso en días despejados se pueden ver los Picos de Europa. </descripcionHilo>
+            <coordenadas lat="43.383333" lon ="-5.866667" alt="691"/> 
+            <distancia unidades="km">3.4</distancia>
+            <tiempoHito>0:24</tiempoHito>
+            <fotografias>
+                <fotografia>imagenes/monteNaranco.jpg</fotografia> 
+            </fotografias>
+        </hito>
+        <hito nombre="Oviedo">
+            <descripcionHilo>Es el centro geográfico, universitario, religioso y administrativo del Principado, sede de la Junta General del 
+            Principado de Asturias, de las instituciones oficiales del Principado de Asturias, de la Universidad de Oviedo, del Museo de 
+            Bellas Artes de Asturias, de los Premios Princesa de Asturias así como de la archidiócesis de Oviedo. Es reconocida como una 
+            de las ciudades con mayor calidad de vida de Europa según la Comisión Europea. </descripcionHilo>
+            <coordenadas lat="43.383333" lon ="-5.866667" alt="634"/> 
+            <distancia unidades="km">6.7</distancia>
+            <tiempoHito>0:33</tiempoHito>
+            <fotografias>
+                <fotografia>imagenes/oviedo1.jpg</fotografia>   
+                <fotografia>imagenes/oviedo2.jpg</fotografia>     
+                <fotografia>imagenes/oviedo3.jpg</fotografia>   
+                <fotografia>imagenes/oviedo4.jpg</fotografia>     
+                <fotografia>imagenes/oviedo5.jpg</fotografia>     
+            </fotografias>
+            <videos>
+                <video>https://youtu.be/e07KYwbQFwM</video>
+                <video>https://youtu.be/8bdQzkCJgjs</video>
+                <video>https://youtu.be/6bcM2WkJ85I</video>        
+            </videos>
+        </hito>
+    </sitios>
+</ruta>
+
+<ruta nombre="Ruta via verde de Fuso"> 
+    <tipo>"Paseo"</tipo>
+    <dificultad>facil</dificultad>
+    <fechaInicio>03/10/2020</fechaInicio>
+    <horaInicio>09:00</horaInicio>
+    <tiempoDuracion>1/2día</tiempoDuracion>
+    <agencia> Sin agencia</agencia>
+    <descripcion>La ruta nos sitúa en esta senda verde que comunica los concejos de Oviedo y Santo Adriano y que recorre su 
+    antigua línea de ferrocarril. Una senda asfaltada y perfecta para hacer en bici o andando sin dificultad.</descripcion>
+    <personasAdecuadas>Todo el mundo</personasAdecuadas>
+    <lugarInicio>Oviedo </lugarInicio>
+    <direccionInicio>Senda Verde, s/n, 33007 Oviedo, Asturias  </direccionInicio>
+    <coordenadasInicio lat="43.35238" lon ="-5.84992" alt="345"/>
+    <referencias>
+        <referencia enlace="https://mas.lne.es/turismo-en-oviedo/que-hacer/rutas/la-senda-verde.html">
+        Senda verde</referencia>
+        <referencia enlace="https://www.elcomercio.es/rutas-senderismo-por-asturias/senda-verde-oviedo-fuso-reina-trubia-tunon-ruta-20200724132122-nt.html">
+        Referencia para hcerla en bici</referencia>
+        <referencia enlace="https://www.turismoasturias.es/descubre/naturaleza/rutas/senderismo/fuso-de-la-reina">
+        Ruta via verde de Fuso</referencia>
+    </referencias>
+    <recomendacion>8</recomendacion>
+    <sitios>
+        <hito nombre="La Manjoya">
+            <descripcionHilo>Es una parroquia del municipio de Oviedo, Asturias (España). En sus 6,17 km² habitan un total de 1.138 
+                habitantes2​3​ e incluye a las siguientes entidades de población: Los Barreros, Cabornio, Campiello, El Caserón, Los Corzos, 
+                Fuente del Forno, La Granda, Llamaoscura, El Medio, Los Prietos, La Rodada y San Torcuato. Limita al norte con la parroquia 
+                de Oviedo, al este con San Esteban de las Cruces, al sur con el concejo de Ribera de Arriba y al oeste con la parroquia de 
+                Latores.  </descripcionHilo>
+            <coordenadas lat="43.3431" lon ="-5.8501" alt="	221"/> 
+            <distancia unidades="km">2</distancia>
+            <fotografias>
+                <fotografia>imagenes/pInvierno.JPG</fotografia>        
+            </fotografias>
+        </hito>
+        <hito nombre="Fuso de la Reina">
+            <descripcionHilo>Adentrarse por la llamada Senda Verde supone un paseo de unos nueve kilómetros desde el parque del Oeste
+                de Oviedo hasta la antigua estación de Fuso de la Reina. La zona tiene ahora un aspecto bastante descuidado. </descripcionHilo>
+            <coordenadas lat="43.3667" lon ="-5.8333" alt="272"/> 
+            <distancia unidades="km">7.6</distancia>
+            <fotografias>
+                <fotografia>imagenes/reina.jpg</fotografia>   
+            </fotografias>
+        </hito>
+        <hito nombre="Caces">
+            <descripcionHilo>Es una parroquia y pueblo del municipio de Oviedo, en España, que dista 12 kilómetros a la capital municipal. </descripcionHilo>
+            <coordenadas lat="43.3292" lon ="-5.93361" alt="80"/> 
+            <distancia unidades="km">2.6</distancia>
+            <fotografias>
+                <fotografia>imagenes/caces.jpg</fotografia> 
+            </fotografias>
+        </hito>
+        <hito nombre="Trubia">
+            <descripcionHilo>Es una población y una parroquia perteneciente al concejo asturiano de Oviedo.  </descripcionHilo>
+            <coordenadas lat="43.332844" lon ="-5.987772" alt="100 "/> 
+            <distancia unidades="km">6.2</distancia>
+            <fotografias>
+                <fotografia>imagenes/trubia.jpg</fotografia>    
+            </fotografias>
+            <videos>
+                <video>https://youtu.be/6LNIlLrCZVw</video>     
+            </videos>
+        </hito>
+    </sitios>
+</ruta>
+
+
+</rutas>
